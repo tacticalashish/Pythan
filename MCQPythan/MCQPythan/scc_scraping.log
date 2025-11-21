@@ -1,0 +1,33 @@
+2025-09-30 14:17:15,958 - INFO - ✅ Successfully connected to SQL Server database
+2025-09-30 14:17:15,988 - INFO - ✅ Database tables verified/created
+2025-09-30 14:17:15,989 - INFO - SCC Web Scraper initialized successfully
+2025-09-30 14:17:16,004 - INFO - Database connection closed
+2025-09-30 14:17:39,878 - INFO - ✅ Successfully connected to SQL Server database
+2025-09-30 14:17:39,888 - INFO - ✅ Database tables verified/created
+2025-09-30 14:17:39,889 - INFO - SCC Web Scraper initialized successfully
+2025-09-30 14:17:39,893 - INFO - 🔍 Scraping: https://main.sci.gov.in/faq
+2025-09-30 14:17:40,714 - ERROR - ❌ Network error scraping https://main.sci.gov.in/faq: HTTPSConnectionPool(host='main.sci.gov.in', port=443): Max retries exceeded with url: /faq (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))
+2025-09-30 14:17:40,719 - WARNING - ⚠️ No Q&A data found at: https://main.sci.gov.in/faq
+2025-09-30 14:17:43,572 - INFO - 🔍 Scraping: https://www.indiacode.nic.in/faq
+2025-09-30 14:17:44,392 - ERROR - ❌ Network error scraping https://www.indiacode.nic.in/faq: 404 Client Error: Not Found for url: https://www.indiacode.nic.in/faq
+2025-09-30 14:17:44,393 - WARNING - ⚠️ No Q&A data found at: https://www.indiacode.nic.in/faq
+2025-09-30 14:17:47,420 - INFO - 🎉 Scraping completed! Total new records saved: 0
+2025-09-30 14:17:47,434 - INFO - Database connection closed
+2025-09-30 17:22:43,746 - INFO - ✅ Successfully connected to SQL Server database
+2025-09-30 17:22:43,773 - INFO - ✅ Database tables verified/created
+2025-09-30 17:22:43,774 - INFO - SCC Web Scraper initialized successfully
+2025-09-30 17:22:43,788 - INFO - Database connection closed
+2025-09-30 17:22:51,518 - INFO - ✅ Successfully connected to SQL Server database
+2025-09-30 17:22:51,522 - INFO - ✅ Database tables verified/created
+2025-09-30 17:22:51,522 - INFO - SCC Web Scraper initialized successfully
+2025-09-30 17:22:51,527 - INFO - 🔍 Scraping: https://main.sci.gov.in/faq
+2025-09-30 17:22:51,812 - ERROR - ❌ Network error scraping https://main.sci.gov.in/faq: HTTPSConnectionPool(host='main.sci.gov.in', port=443): Max retries exceeded with url: /faq (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))
+2025-09-30 17:22:51,812 - WARNING - ⚠️ No Q&A data found at: https://main.sci.gov.in/faq
+2025-09-30 17:22:55,058 - INFO - 🔍 Scraping: https://www.indiacode.nic.in/faq
+2025-09-30 17:22:55,397 - ERROR - ❌ Network error scraping https://www.indiacode.nic.in/faq: 404 Client Error: Not Found for url: https://www.indiacode.nic.in/faq
+2025-09-30 17:22:55,397 - WARNING - ⚠️ No Q&A data found at: https://www.indiacode.nic.in/faq
+2025-09-30 17:22:59,514 - INFO - 🎉 Scraping completed! Total new records saved: 0
+2025-09-30 17:22:59,526 - INFO - Database connection closed
+2025-09-30 17:23:15,069 - INFO - ✅ Successfully connected to SQL Server database
+2025-09-30 17:23:15,073 - INFO - ✅ Database tables verified/created
+2025-09-30 17:23:15,073 - INFO - SCC Web Scraper initialized successfully
